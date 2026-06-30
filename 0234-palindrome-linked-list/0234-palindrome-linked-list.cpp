@@ -35,13 +35,13 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
 
-        while (fast->next != nullptr && fast->next->next != nullptr) {
+        while (fast != nullptr && fast->next != nullptr) {
             slow = slow->next;
             fast = fast->next->next;
         }
 
         // Step 2: Reverse second half
-        ListNode* secondHalf = reverseList(slow->next);
+        ListNode* secondHalf = reverseList(slow);
 
         // Step 3: Compare first and second half
         ListNode* firstHalf = head;
