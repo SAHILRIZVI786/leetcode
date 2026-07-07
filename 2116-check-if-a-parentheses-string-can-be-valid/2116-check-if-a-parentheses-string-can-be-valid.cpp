@@ -4,34 +4,35 @@ public:
 
         int n = s.size();
 
+        // Odd length can never be balanced
         if (n % 2)
             return false;
 
-        // Left -> Right
-        int balance = 0;
+        int open = 0;
 
+        // Left -> Right
         for (int i = 0; i < n; i++) {
 
             if (locked[i] == '0' || s[i] == '(')
-                balance++;
+                open++;
             else
-                balance--;
+                open--;
 
-            if (balance < 0)
+            if (open < 0)
                 return false;
         }
 
-        // Right -> Left
-        balance = 0;
+        int close = 0;
 
+        // Right -> Left
         for (int i = n - 1; i >= 0; i--) {
 
             if (locked[i] == '0' || s[i] == ')')
-                balance++;
+                close++;
             else
-                balance--;
+                close--;
 
-            if (balance < 0)
+            if (close < 0)
                 return false;
         }
 
