@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/SAHILRIZVI786/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/SAHILRIZVI786/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Recursion
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SAHILRIZVI786/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/SAHILRIZVI786/leetcode/tree/master/0022-generate-parentheses) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/SAHILRIZVI786/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SAHILRIZVI786/leetcode/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/SAHILRIZVI786/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
