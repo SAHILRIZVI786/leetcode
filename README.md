@@ -64,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SAHILRIZVI786/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/SAHILRIZVI786/leetcode/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/SAHILRIZVI786/leetcode/tree/master/0282-expression-add-operators) |
 | [0372-super-pow](https://github.com/SAHILRIZVI786/leetcode/tree/master/0372-super-pow) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SAHILRIZVI786/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/SAHILRIZVI786/leetcode/tree/master/0022-generate-parentheses) |
+| [0282-expression-add-operators](https://github.com/SAHILRIZVI786/leetcode/tree/master/0282-expression-add-operators) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/SAHILRIZVI786/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Dynamic Programming
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SAHILRIZVI786/leetcode/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/SAHILRIZVI786/leetcode/tree/master/0282-expression-add-operators) |
 ## Greedy
 |  |
 | ------- |
