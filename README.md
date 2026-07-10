@@ -79,8 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SAHILRIZVI786/leetcode/tree/master/0022-generate-parentheses) |
+| [0216-combination-sum-iii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0216-combination-sum-iii) |
 ## Greedy
 |  |
 | ------- |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/SAHILRIZVI786/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+## Array
+|  |
+| ------- |
+| [0216-combination-sum-iii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
