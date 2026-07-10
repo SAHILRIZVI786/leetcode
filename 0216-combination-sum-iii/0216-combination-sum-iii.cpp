@@ -6,7 +6,7 @@ public:
             res.push_back(path);
             return;
         }
-        for (int i = start; i <= 9; ++i) {
+        for (int i = start; i <= 9; i++) {
             if (i > target || k <= 0) break;
             path.push_back(i);
             backtrack(k - 1, target - i, i + 1, path);
