@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SAHILRIZVI786/leetcode/tree/master/0022-generate-parentheses) |
+| [0090-subsets-ii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0216-combination-sum-iii) |
 ## Greedy
 |  |
@@ -87,5 +88,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0216-combination-sum-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
