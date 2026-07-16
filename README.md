@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SAHILRIZVI786/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SAHILRIZVI786/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SAHILRIZVI786/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0503-next-greater-element-ii) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/SAHILRIZVI786/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Recursion
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SAHILRIZVI786/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0216-combination-sum-iii) |
+| [0503-next-greater-element-ii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0503-next-greater-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SAHILRIZVI786/leetcode/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
