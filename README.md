@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SAHILRIZVI786/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/SAHILRIZVI786/leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SAHILRIZVI786/leetcode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/SAHILRIZVI786/leetcode/tree/master/0148-sort-list) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SAHILRIZVI786/leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SAHILRIZVI786/leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/SAHILRIZVI786/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SAHILRIZVI786/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SAHILRIZVI786/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SAHILRIZVI786/leetcode/tree/master/0042-trapping-rain-water) |
 ## Backtracking
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SAHILRIZVI786/leetcode/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/SAHILRIZVI786/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0216-combination-sum-iii) |
@@ -118,5 +122,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SAHILRIZVI786/leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
