@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/SAHILRIZVI786/leetcode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/SAHILRIZVI786/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SAHILRIZVI786/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/SAHILRIZVI786/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/SAHILRIZVI786/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SAHILRIZVI786/leetcode/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/SAHILRIZVI786/leetcode/tree/master/0076-minimum-window-substring) |
 | [0282-expression-add-operators](https://github.com/SAHILRIZVI786/leetcode/tree/master/0282-expression-add-operators) |
 | [0424-longest-repeating-character-replacement](https://github.com/SAHILRIZVI786/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/SAHILRIZVI786/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/SAHILRIZVI786/leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/SAHILRIZVI786/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/SAHILRIZVI786/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SAHILRIZVI786/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
