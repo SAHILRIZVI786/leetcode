@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SAHILRIZVI786/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/SAHILRIZVI786/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/SAHILRIZVI786/leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SAHILRIZVI786/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/SAHILRIZVI786/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/SAHILRIZVI786/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -125,11 +126,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SAHILRIZVI786/leetcode/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/SAHILRIZVI786/leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SAHILRIZVI786/leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/SAHILRIZVI786/leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/SAHILRIZVI786/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/SAHILRIZVI786/leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Queue
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SAHILRIZVI786/leetcode/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/SAHILRIZVI786/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
