@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/SAHILRIZVI786/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SAHILRIZVI786/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAHILRIZVI786/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/SAHILRIZVI786/leetcode/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SAHILRIZVI786/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAHILRIZVI786/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SAHILRIZVI786/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SAHILRIZVI786/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/SAHILRIZVI786/leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/SAHILRIZVI786/leetcode/tree/master/0692-top-k-frequent-words) |
+| [1046-last-stone-weight](https://github.com/SAHILRIZVI786/leetcode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAHILRIZVI786/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Monotonic Queue
 |  |
