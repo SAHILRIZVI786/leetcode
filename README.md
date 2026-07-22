@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SAHILRIZVI786/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/SAHILRIZVI786/leetcode/tree/master/0460-lfu-cache) |
 | [0621-task-scheduler](https://github.com/SAHILRIZVI786/leetcode/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/SAHILRIZVI786/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SAHILRIZVI786/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SAHILRIZVI786/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/SAHILRIZVI786/leetcode/tree/master/0148-sort-list) |
 | [0621-task-scheduler](https://github.com/SAHILRIZVI786/leetcode/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/SAHILRIZVI786/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAHILRIZVI786/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Merge Sort
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/SAHILRIZVI786/leetcode/tree/master/0076-minimum-window-substring) |
 | [0282-expression-add-operators](https://github.com/SAHILRIZVI786/leetcode/tree/master/0282-expression-add-operators) |
 | [0424-longest-repeating-character-replacement](https://github.com/SAHILRIZVI786/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0692-top-k-frequent-words](https://github.com/SAHILRIZVI786/leetcode/tree/master/0692-top-k-frequent-words) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/SAHILRIZVI786/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Dynamic Programming
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/SAHILRIZVI786/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/SAHILRIZVI786/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/SAHILRIZVI786/leetcode/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/SAHILRIZVI786/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0907-sum-of-subarray-minimums](https://github.com/SAHILRIZVI786/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SAHILRIZVI786/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/SAHILRIZVI786/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SAHILRIZVI786/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/SAHILRIZVI786/leetcode/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/SAHILRIZVI786/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAHILRIZVI786/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Monotonic Queue
 |  |
@@ -202,9 +207,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/SAHILRIZVI786/leetcode/tree/master/0621-task-scheduler) |
+| [0692-top-k-frequent-words](https://github.com/SAHILRIZVI786/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SAHILRIZVI786/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Matrix
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SAHILRIZVI786/leetcode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/SAHILRIZVI786/leetcode/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/SAHILRIZVI786/leetcode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
